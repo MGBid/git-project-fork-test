@@ -1,4 +1,4 @@
-# Siguiendo los cursos de Git y GitHub :octocat: de Fernando Herrera 👩‍💻
+# Siguiendo los cursos de Git y 🐙 GitHub :octocat: de Fernando Herrera 👩‍💻
 Un repositorio para conquistar el mundo
 
 Básicamente estamos aprendiendo más sobre Git y GitHub con este proyecto.
